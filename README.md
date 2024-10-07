@@ -16,3 +16,4 @@ A simple configurable weather dashboard using TypeScript and Material-UI (MUI). 
 - Add/remove weather widgets.
 - Toggle between Celsius and Fahrenheit.
 - Responsive design for desktop and mobile.
+"# weather_dashboard" 
