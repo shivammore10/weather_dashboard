@@ -1,0 +1,4 @@
+GitHub overview
+Before we learn to use GitHub, let's first review Git. Git is an open-source command-line-based version-control system for software development. While Git is a command-line tool and you also need to host and maintain a server on which you can use Git for versioning.
+
+GitHub is a repository hosting service that uses Git. GitHub provides a web-based hosting service with a graphical user interface(GUI) and git command line interface (CLI). It also provides access control and several collaboration features, such as wikis and basic task management tools, for every project. GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. GitHub includes a free plan for individual developers and for hosting open-source projects.
